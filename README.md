@@ -4,7 +4,7 @@ Management is carried out by the server administration, which has the 'battleAdm
 # Links
 * [Documentation](https://townybattle.gitbook.io/townybattles-wiki/)
 * [Installation Guide](https://townybattle.gitbook.io/townybattles-wiki/install/installing)
-* [Spigot](https://www.google.com/)
+* [Spigot](https://www.spigotmc.org/resources/townybattle.101931/)
 
 ## [Towny Battle](https://github.com/Mine-Alex/TownyBattle/) - Developed by [Mine-Alex](https://github.com/Mine-Alex)
 
