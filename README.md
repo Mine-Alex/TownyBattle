@@ -26,7 +26,7 @@ ___
 
 <table>
 <tr><th> Minecraft Version</th><th>Towny Battle Version</th></tr>
-<tr align=center><td> MC 1.18.*</td><td rowspan=7> Use <a href=https://github.com/TownyAdvanced/Towny/releases/tag/1.0.0>1.0.0</a></td>
+<tr align=center><td> MC 1.18.*</td><td rowspan=7> Use <a href=https://github.com/Mine-Alex/TownyBattle/releases/tag/1.0.0>1.0.0</a></td>
 <tr align=center><td> MC 1.17.*</td>
 <tr align=center><td> MC 1.16.*</td>
 <tr align=center><td> MC 1.15.*</td>
