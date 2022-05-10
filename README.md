@@ -6,7 +6,7 @@ Management is carried out by the server administration, which has the 'battleAdm
 * [Installation Guide](https://townybattle.gitbook.io/townybattles-wiki/install/installing)
 * [Spigot](https://www.google.com/)
 
-## [Towny Battle](https://github.com/TownyBattle/TownyBattle/) - Developed by [Mine-Alex](https://github.com/Mine-Alex)
+## [Towny Battle](https://github.com/Mine-Alex/TownyBattle/) - Developed by [Mine-Alex](https://github.com/Mine-Alex)
 
 ___
 
@@ -22,7 +22,7 @@ Check out some of Towny Battle's features and see for yourself why it's so great
 ___
 
 ### Current Recommended Versions
-* [Latest Release](https://github.com/TownyBattle/TownyBattle/releases/latest/) supports MC 1.12.* & 1.13.* & 1.14.* & 1.15.* & 1.16.* & 1.17.* & 1.18.
+* [Latest Release](https://github.com/Mine-Alex/TownyBattle/releases/latest/) supports MC 1.12.* & 1.13.* & 1.14.* & 1.15.* & 1.16.* & 1.17.* & 1.18.
 
 <table>
 <tr><th> Minecraft Version</th><th>Towny Battle Version</th></tr>
@@ -48,7 +48,7 @@ Alternatively, if you [watch the resource](https://www.spigotmc.org/resources/) 
 ___
 
 ### Contributing
-If you'd like to contribute to the Towny code, see the [CONTRIBUTING.md](https://github.com/TownyBattle/TownyBattle/blob/main/CONTRIBUTING.md).
+If you'd like to contribute to the Towny code, see the [CONTRIBUTING.md](https://github.com/Mine-Alex/TownyBattle/blob/main/CONTRIBUTING.md).
 
 ___
 
