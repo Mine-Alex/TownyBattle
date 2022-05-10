@@ -1,0 +1,15 @@
+name: TownyBattle
+version: ${project.version}
+main: xyz.minealex.townybattle.TownyBattle
+depend: [ Towny ]
+authors: [ MineAlex ]
+description: Plugin for battles in Towny
+website: https://github.com/Mine-Alex
+
+commands:
+  townyBattle:
+    usage: /townyBattle
+
+permissions:
+  townybattle.battleAdmin:
+    default: op

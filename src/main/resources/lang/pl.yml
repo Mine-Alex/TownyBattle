@@ -1,0 +1,11 @@
+titleBattleEnd: 'Zakonczyla sie bitwa'
+subtitleBattleEnd: 'TownPermissions wyłączony'
+titleBattleStart: 'Zaczyna się bitwa'
+subtitleBattleStart: 'TownPermissions włączony'
+messageBattleStart: 'Rozpoczęła się bitwa'
+messageBattleEnd: 'Zakonczyla sie bitwa'
+error: 'Błąd'
+waitBattleEnd: "Czekaj zakończenie bitwy"
+battleName: 'Nazwa bitwy'
+towns: 'Miasto'
+active: 'Active'
